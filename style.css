@@ -228,7 +228,7 @@ nav {
     .links ul li a{
         color: #fff;
         text-decoration: none;
-        font-size: 14px;
+        font-size: 12px;
     }
     
     .links ul li::after{
@@ -245,8 +245,44 @@ nav {
         width: 100%;
     }
 
+    .intro {
+        font-size: 2.5vh;
+    }
+
     .profpic {
         padding-bottom: 4vh;
         width: 35vw;
+    }
+
+    .button-desc {
+        font-size: 8px;
+    }
+
+    .back-intro {
+        font-size: 2.5vh;
+    }
+    
+    .back-skills {
+        font-size: 2vh;
+    }
+
+    .education {
+        font-size: 2.5vh;
+    }
+
+    .virginiatech {
+        font-size: 2vh;
+    }
+    
+    .work-exp {
+        font-size: 2.5vh;
+    }
+    
+    .gdit {
+        font-size: 2vh;
+    }
+    
+    .hevt {
+        font-size: 2vh;
     }
   }
