@@ -246,7 +246,7 @@ nav {
     }
 
     .intro {
-        font-size: 2.5vh;
+        font-size: 2vh;
     }
 
     .profpic {
@@ -259,30 +259,30 @@ nav {
     }
 
     .back-intro {
-        font-size: 2.5vh;
+        font-size: 1.5vh;
     }
     
     .back-skills {
-        font-size: 2vh;
+        font-size: 1.5vh;
     }
 
     .education {
-        font-size: 2.5vh;
+        font-size: 2vh;
     }
 
     .virginiatech {
-        font-size: 2vh;
+        font-size: 1.5vh;
     }
     
     .work-exp {
-        font-size: 2.5vh;
+        font-size: 2vh;
     }
     
     .gdit {
-        font-size: 2vh;
+        font-size: 1.25vh;
     }
     
     .hevt {
-        font-size: 2vh;
+        font-size: 1.25vh;
     }
   }
